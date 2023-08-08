@@ -1,1 +1,1 @@
-go.payoneer.com
+<h> Subdomain takeover PoC </h>
